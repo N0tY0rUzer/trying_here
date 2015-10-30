@@ -1,2 +1,2 @@
-# trydjango18
-Practicing Django and personal reference
+# trying_here
+Practicing stuff
